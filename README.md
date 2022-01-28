@@ -1,4 +1,4 @@
-# GIT Keyboard Shortcuts
+# GIT Command-Line Commands
 
 A listing of Git command-line commands in Excel and OpenOffice format.
 
