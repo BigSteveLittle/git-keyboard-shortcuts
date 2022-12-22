@@ -6,3 +6,6 @@ I am a beginner with GIT. So any GIT experts are encouraged to examine and offer
 
 Cheers 😀
 BigSteveLittle
+
+## Now in Three Flavours
+This list of commands is now available as Excel, Open Office and Apple Numbers spreadsheets. Enjoy!
